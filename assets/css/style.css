@@ -383,6 +383,16 @@ section .container {
   color: #fff;
 }
 
+.section-title a {
+  padding-left: 10px;
+  color: #fff;
+}
+
+.section-title a:hover {
+  cursor: pointer;
+  color: #d21818;
+}
+
 /*--------------------------------------------------------------
 # About
 --------------------------------------------------------------*/
@@ -1175,16 +1185,4 @@ section .container {
 
 .credits a:hover {
   color: #fff;
-}
-
-
-/* my additions */
-
-#download-icon {
-  padding-left: 20px;
-}
-
-#download-icon:hover {
-  cursor: pointer;
-  color: #d21818;
 }
