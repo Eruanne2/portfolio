@@ -1168,3 +1168,15 @@ section .container {
 .credits a:hover {
   color: #fff;
 }
+
+
+/* my additions */
+
+#download-icon {
+  padding-left: 20px;
+}
+
+#download-icon:hover {
+  cursor: pointer;
+  color: #d21818;
+}
