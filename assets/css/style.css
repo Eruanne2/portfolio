@@ -36,7 +36,7 @@ body::before {
 
 @media (max-width: 700px) {
   body::before {
-    background: #040404 url("../img/background-mobile.jpg") top center no-repeat;
+    background: #040404 url("../img/background_mobile.jpg") top center no-repeat;
   }
 }
 
