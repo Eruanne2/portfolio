@@ -434,6 +434,12 @@ section .container {
   margin-bottom: 0;
 }
 
+.about-photos {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
 /*--------------------------------------------------------------
 # Counts
 --------------------------------------------------------------*/
